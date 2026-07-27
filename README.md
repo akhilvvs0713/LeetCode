@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/akhilvvs0713/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilvvs0713/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilvvs0713/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilvvs0713/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilvvs0713/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilvvs0713/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
