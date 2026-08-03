@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/akhilvvs0713/LeetCode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/akhilvvs0713/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akhilvvs0713/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/akhilvvs0713/LeetCode/tree/master/0877-stone-game) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/akhilvvs0713/LeetCode/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilvvs0713/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilvvs0713/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akhilvvs0713/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/akhilvvs0713/LeetCode/tree/master/0217-contains-duplicate) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilvvs0713/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
