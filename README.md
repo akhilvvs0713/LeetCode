@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/akhilvvs0713/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akhilvvs0713/LeetCode/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/akhilvvs0713/LeetCode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akhilvvs0713/LeetCode/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
