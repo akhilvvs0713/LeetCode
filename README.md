@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/akhilvvs0713/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilvvs0713/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akhilvvs0713/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1572-matrix-diagonal-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akhilvvs0713/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/akhilvvs0713/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3731-find-missing-elements](https://github.com/akhilvvs0713/LeetCode/tree/master/3731-find-missing-elements) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhilvvs0713/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/akhilvvs0713/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
