@@ -1,6 +1,15 @@
-class Solution:
-    def replaceElements(self, arr: List[int]) -> List[int]:
+class Solution(object):
+    def replaceElements(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: List[int]
+        """
         m=-1
-        for i in range(len(arr)-1,-1,-1):
-            arr[i] , m = m , max(m,arr[i])
+        i=len(arr)-1
+        while i >= 0:
+            temp=arr[i]
+            arr[i]=m
+            if temp>m:
+                m=temp
+            i-=1
         return arr
