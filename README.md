@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/akhilvvs0713/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akhilvvs0713/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhilvvs0713/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/akhilvvs0713/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akhilvvs0713/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akhilvvs0713/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/akhilvvs0713/LeetCode/tree/master/0125-valid-palindrome) |
 | [0977-squares-of-a-sorted-array](https://github.com/akhilvvs0713/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhilvvs0713/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/akhilvvs0713/LeetCode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/akhilvvs0713/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -175,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akhilvvs0713/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
