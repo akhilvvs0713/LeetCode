@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhilvvs0713/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/akhilvvs0713/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akhilvvs0713/LeetCode/tree/master/0125-valid-palindrome) |
+| [1927-sum-game](https://github.com/akhilvvs0713/LeetCode/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akhilvvs0713/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilvvs0713/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -139,11 +140,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/akhilvvs0713/LeetCode/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/akhilvvs0713/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akhilvvs0713/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1927-sum-game](https://github.com/akhilvvs0713/LeetCode/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhilvvs0713/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akhilvvs0713/LeetCode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/akhilvvs0713/LeetCode/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhilvvs0713/LeetCode/tree/master/0011-container-with-most-water) |
+| [1927-sum-game](https://github.com/akhilvvs0713/LeetCode/tree/master/1927-sum-game) |
 ## Enumeration
 |  |
 | ------- |
